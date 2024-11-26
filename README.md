@@ -9,7 +9,7 @@ Details:
 2.Install the axios for the fetching and performs the api operations
 3.use the jsonplaceholder for getting the user datum
 4.Install the Material UI for the components(button,data table, dialog,side drawer, input fields)
-5.Show the users data in the table formate
+5.Show the users data in the table formate with pagination
 6.add the drawer for creating the new user
 7.use the jsonplaceholder post api for create the new user
 8.Install the react notify to notify the success and error responses
