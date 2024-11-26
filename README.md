@@ -1,5 +1,6 @@
-How to run this app:
+Installation and Running the App
 
+#git clone https://github.com/azharjustin/user-crud-app.git
 #cd user-crud-app
 #npm install
 #npm run dev
