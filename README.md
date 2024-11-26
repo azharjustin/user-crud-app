@@ -24,4 +24,9 @@ Details:
 17.after completed the component wise, again check the all functionlities 
 18.for the reference I have given my whole single page develeopment in the SingleFile.jsx file
 
+Note:
+In this git repo aboute section you can see the demo link, I have published on Netlify app
+(or)
+Demo Link : https://github.com/azharjustin/user-crud-app
+
 If you give me more time I can make this as an full stack project, I can implement my own api with database
