@@ -1,9 +1,9 @@
 Installation and Running the App
 
-#git clone https://github.com/azharjustin/user-crud-app.git
-#cd user-crud-app
-#npm install
-#npm run dev
+1. git clone https://github.com/azharjustin/user-crud-app.git
+2. cd user-crud-app
+3. npm install
+4. npm run dev
 
 Details:
 1. first I created a fresh React app
