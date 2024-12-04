@@ -28,6 +28,6 @@ Details:
 Note:
 In this git repo about section you can see the demo link, I have published on the Netlify app
 (or)
-Demo Link: [https://github.com/azharjustin/user-crud-app](https://users-management-dashboard-app.netlify.app/)
+Demo Link: [https://users-management-dashboard-app.netlify.app/](https://users-management-dashboard-app.netlify.app/)
 
 If you give me more time I can make this a full-stack project, I can implement my API with a database
